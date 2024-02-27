@@ -3,7 +3,7 @@
 ### This ctf was part of the annual grayhat conference. Sec Army CTF had a variety of challenges that helped me brush up on skills and gain knowledge on unknown before topics and technologies.
 
 # ~$ whoami
-### My name is Vasiliky Maria Bartolotta and I'm a Vulnerability Research Intern. I play ctf's in my spare time and research about low level exploitation and security in general.
+### My name is Vasiliki Bartolotta and I'm a Vulnerability Research Intern. I play ctf's in my spare time and research about low level exploitation and security in general.
 
 # Table of Contents
 1. [Uno](#uno)
